@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@apollo/client": "^3.12.7",
+    "@sentry/nextjs": "^8.52.0",
+    "@sentry/react": "^8.52.0",
     "@types/graphql": "^14.2.3",
     "alx-graphql-0x01": "file:",
     "graphql": "^16.10.0",
